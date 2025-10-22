@@ -166,7 +166,7 @@ A designer may use a high-fidelity wireframe to showcase the exact placement of 
 
 ---
 
-### Type of Wireframe Used
+### Type of Wireframe Used Here👇
 
 ** https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f **
 
@@ -179,13 +179,13 @@ High-fidelity wireframes are detailed and visually refined representations of th
 
 This type of wireframe goes beyond basic structure and focuses on the visual design, functionality, and user interaction of the interface. It helps stakeholders visualize how the actual product will look and behave.
 
-\*\*It incorporates colors, images, icons, and typography that align with the final design.
+-It incorporates colors, images, icons, and typography that align with the final design.
 
-\*\*It includes detailed UI elements such as buttons, forms, menus, and navigation bars.
+-It includes detailed UI elements such as buttons, forms, menus, and navigation bars.
 
-\*\*It represents real or near-final content instead of placeholders.
+-It represents real or near-final content instead of placeholders.
 
-\*\*It also provides a realistic simulation of user experience and interface flow.
+-It also provides a realistic simulation of user experience and interface flow.
 
 ---
 
