@@ -168,7 +168,7 @@ A designer may use a high-fidelity wireframe to showcase the exact placement of 
 
 ### Type of Wireframe Used Here👇
 
-** https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f **
+[View Figma Wireframe](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f)
 
 🧩 High-Fidelity Wireframe
 
